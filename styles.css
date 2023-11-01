@@ -8,21 +8,23 @@
   background-color: rgb(255, 102, 0);
 }
 .container .result{
-  width: 280px;
-  height: 50px;
+  width: 274px;
+  height: 44px;
   background-color: #fff;
+  border: 3px solid rgb(255, 102, 0);
 }
 .container .items-container{
     display: flex;
     flex-direction: row-reverse;
 }
 .container .items-container .operators-container div{
-    width: 70px;
-    height: 70px;
-    background-color: #fff;
+    width: 64px;
+    height: 64px;
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: yellow;
+    border: 3px solid rgb(255, 102, 0);
 }
 .container .items-container .bottom-side{
     position: relative;
@@ -43,10 +45,11 @@
 }
 .container .items-container .bottom-side .equal{
     position: absolute;
-    background-color: #fff;
-    width: 280px;
-    height: 70px;
+    width: 274px;
+    height: 64px;
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: yellow;
+    border: 3px solid rgb(250, 102, 0);
 }
