@@ -13,6 +13,7 @@
   width: 254px;
   height: 64px;
   background-color: #fff;
+  font: normal normal 800 25px/normal sans-serif;
   border: 3px solid rgb(255, 102, 0);
   padding: 0 12px;
   overflow-x: auto;
