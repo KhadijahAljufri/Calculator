@@ -9,7 +9,7 @@
 }
 .container .result{
   display: flex;
-  align-item: center;
+  align-items: center;
   width: 250px;
   height: 64px;
   background-color: #fff;
