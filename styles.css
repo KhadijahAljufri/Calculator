@@ -10,7 +10,7 @@
 .container .result{
   display: flex;
   align-item: center;
-  width: 254px;
+  width: 250px;
   height: 64px;
   background-color: #fff;
   font: normal normal 800 25px/normal sans-serif;
