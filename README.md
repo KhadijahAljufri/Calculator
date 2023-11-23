@@ -1,2 +1,2 @@
 # Calculator
-Hello! This Khadijah Aljufri calculator project, give it a star!
+Hello! This is Khadijah Aljufri calculator project, give it a star!
