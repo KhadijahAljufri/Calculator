@@ -1,5 +1,5 @@
 const resultInput = document.querySelector('.container .result');
-const numberItems = document.querySelectorAll('.container .items-container .bottom-side .numbers-container div');
+const numberItems = document.querySelectorAll('.container .items-container .bottom-side .numbers-container .number');
 const operatorItems = document.querySelectorAll('.container .items-container .operators-container div');
 const equalOperator = document.querySelector('.container .items-container .bottom-side .equal');
 const clear = document.querySelector('.container .items-container .bottom-side .numbers-container .equal');
